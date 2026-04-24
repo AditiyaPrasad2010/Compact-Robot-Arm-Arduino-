@@ -92,3 +92,9 @@ Integrate grippers or sensors (e.g., distance or force sensors)
 Add remote control via Bluetooth or Wi-Fi
 
 Create a UI on PC or mobile to control the robot
+
+
+
+
+<img width="1152" height="2048" alt="WhatsApp Image 2026-04-24 at 19 48 02" src="https://github.com/user-attachments/assets/8013bcc9-5f2a-4533-a2d7-fc5e616c6bc2" />
+
